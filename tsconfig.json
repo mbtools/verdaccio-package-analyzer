@@ -6,8 +6,9 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "outDir": "./dist"
+    "outDir": "./dist",
+    "types": ["node", "node-fetch"]
   },
-  "include": ["./*.ts"],
+  "include": ["src/*.ts"],
   "exclude": ["node_modules"]
-} 
+}

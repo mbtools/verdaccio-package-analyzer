@@ -3,7 +3,7 @@ import { PackageResult } from './types';
 
 async function convertDistTagsToMarkdown() {
   try {
-    const data = await fs.readFile('data/dist-tags.json', 'utf-8');
+    const data = await fs.readFile('../data/dist-tags.json', 'utf-8');
     const results = JSON.parse(data) as PackageResult[];
 
     const md: string[] = ['# Verdaccio NPM Package Dist-Tags\n'];
@@ -30,7 +30,7 @@ async function convertDistTagsToMarkdown() {
       md.push('');
     }
 
-    await fs.writeFile('output/dist-tags.md', md.join('\n'), 'utf-8');
+    await fs.writeFile('../output/dist-tags.md', md.join('\n'), 'utf-8');
     console.log('Markdown report generated in dist-tags.md');
   } catch (error) {
     console.error('Error:', error);
