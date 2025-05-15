@@ -1,6 +1,6 @@
-# Package Analyzer
+# Verdaccio Package Analyzer
 
-TypeScript version of the package analyzer tools for Verdaccio NPM packages.
+Package analyzer tool for Verdaccio NPM packages.
 
 ## Setup
 
