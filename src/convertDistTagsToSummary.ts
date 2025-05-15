@@ -7,6 +7,7 @@ async function convertDistTagsToSummary() {
     const results = JSON.parse(data) as PackageResult[];
 
     const md: string[] = ['# Verdaccio NPM Package Version Summary\n'];
+    md.push('<div style="font-size:smaller">\n')
     md.push('| Package | Latest | 6-next | next | next-7 | next-8 | Other Tags |');
     md.push('|---------|---------|---------|------|---------|---------|------------|');
 
@@ -52,6 +53,7 @@ async function convertDistTagsToSummary() {
       // Add row to markdown
       md.push(`| ${Package} | ${latest} | ${sixNext} | ${next} | ${nextSeven} | ${nextEight} | ${otherTagsStr} |`);
     }
+    md.push('\n</div>\n');
 
     await fs.writeFile('output/summary.md', md.join('\n'), 'utf-8');
     console.log('Summary table generated in summary.md');

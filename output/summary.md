@@ -1,5 +1,7 @@
 # Verdaccio NPM Package Version Summary
 
+<div style="font-size:smaller">
+
 | Package | Latest | 6-next | next | next-7 | next-8 | Other Tags |
 |---------|---------|---------|------|---------|---------|------------|
 | @verdaccio/api | 6.0.0-6-next.59 | 6.0.0-6-next.12 | 7.0.0-next.6 | 7.0.0-next-7.20 | 8.1.0-next-8.15 | - |
@@ -42,3 +44,5 @@
 | @verdaccio/streams | 10.2.1 | 11.0.0-6-next.5 | 10.0.0-next.1 | - | - | beta |
 | verdaccio-aws-s3-storage | 10.4.0 | 11.0.0-6-next.10 | 10.0.0-next.1 | - | - | - |
 | verdaccio-google-cloud | 10.2.1 | 11.0.0-6-next.10 | 10.0.0-next.1 | - | - | - |
+
+</div>
