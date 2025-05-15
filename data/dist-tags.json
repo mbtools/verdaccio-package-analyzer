@@ -1,0 +1,1155 @@
+[
+  {
+    "Package": "@verdaccio/api",
+    "Tags": [
+      {
+        "Tag": "6-next",
+        "Version": "6.0.0-6-next.12",
+        "PublishDate": "2021-09-03T21:24:07.635Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "6.0.0-6-next.59",
+        "PublishDate": "2023-08-20T10:59:09.996Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "7.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:05.599Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:47.801Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.1.0-next-8.15",
+        "PublishDate": "2025-03-31T21:23:56.43Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/auth",
+    "Tags": [
+      {
+        "Tag": "6-next",
+        "Version": "6.0.0-6-next.9",
+        "PublishDate": "2021-09-03T21:24:07.394Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "6.0.0-6-next.55",
+        "PublishDate": "2023-08-20T10:59:10.497Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "7.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:05.481Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:47.867Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.0.0-next-8.15",
+        "PublishDate": "2025-03-31T21:23:57.06Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/cli",
+    "Tags": [
+      {
+        "Tag": "6-next",
+        "Version": "6.0.0-6-next.19",
+        "PublishDate": "2021-09-03T21:24:07.534Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "6.0.0-6-next.76",
+        "PublishDate": "2023-08-20T10:59:10.524Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "7.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:05.493Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:47.603Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.0.0-next-8.15",
+        "PublishDate": "2025-03-31T21:23:56.765Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/cli-standalone",
+    "Tags": [
+      {
+        "Tag": "latest",
+        "Version": "6.0.0-alpha.5",
+        "PublishDate": "2021-09-03T21:24:25.92Z"
+      },
+      {
+        "Tag": "6-next",
+        "Version": "6.0.0-6-next.7",
+        "PublishDate": "2022-08-28T11:38:53.591Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "7.0.0-next.0",
+        "PublishDate": "2023-08-21T15:46:28.457Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.0.0-next-8.1",
+        "PublishDate": "2025-03-23T13:45:47.378Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/config",
+    "Tags": [
+      {
+        "Tag": "6-next",
+        "Version": "6.0.0-6-next.7",
+        "PublishDate": "2021-09-03T21:24:07.492Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "6.0.0-6-next.76",
+        "PublishDate": "2023-08-20T10:59:10.626Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "7.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:05.798Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:47.855Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.0.0-next-8.15",
+        "PublishDate": "2025-03-31T21:23:57.425Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/core",
+    "Tags": [
+      {
+        "Tag": "6-next",
+        "Version": "6.0.0-6-next.1",
+        "PublishDate": "2021-09-08T17:37:40.052Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "6.0.0-6-next.76",
+        "PublishDate": "2023-08-20T10:59:10.587Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "7.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:04.92Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:47.712Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.0.0-next-8.15",
+        "PublishDate": "2025-03-31T21:23:56.628Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/file-locking",
+    "Tags": [
+      {
+        "Tag": "beta",
+        "Version": "0.0.5",
+        "PublishDate": "2017-10-06T06:14:23.348Z"
+      },
+      {
+        "Tag": "6-next",
+        "Version": "11.0.0-6-next.7",
+        "PublishDate": "2023-01-22T09:00:48.541Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "10.3.1",
+        "PublishDate": "2023-03-29T18:48:01.509Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "12.0.0-next.1",
+        "PublishDate": "2023-10-14T20:59:02.398Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "13.0.0-next-8.3",
+        "PublishDate": "2025-03-23T13:45:36.051Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/hooks",
+    "Tags": [
+      {
+        "Tag": "6-next",
+        "Version": "6.0.0-6-next.4",
+        "PublishDate": "2021-09-03T21:24:15.86Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "6.0.0-6-next.46",
+        "PublishDate": "2023-08-20T10:59:10.205Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "7.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:05.69Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:47.717Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.0.0-next-8.15",
+        "PublishDate": "2025-03-31T21:23:56.994Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/loaders",
+    "Tags": [
+      {
+        "Tag": "6-next",
+        "Version": "6.0.0-6-next.4",
+        "PublishDate": "2021-09-03T21:24:16.785Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "6.0.0-6-next.45",
+        "PublishDate": "2023-08-20T10:59:10.316Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "7.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:05.716Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:47.779Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.0.0-next-8.6",
+        "PublishDate": "2025-03-29T14:40:50.055Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/local-storage",
+    "Tags": [
+      {
+        "Tag": "beta",
+        "Version": "2.0.0-beta.3",
+        "PublishDate": "2019-02-24T10:47:39.198Z"
+      },
+      {
+        "Tag": "6-next",
+        "Version": "11.0.0-6-next.46",
+        "PublishDate": "2023-08-20T10:59:21.931Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "10.3.4",
+        "PublishDate": "2023-09-02T20:41:36.703Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "12.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:12.153Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "12.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:53.444Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "13.0.0-next-8.15",
+        "PublishDate": "2025-03-31T21:24:02.764Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/logger",
+    "Tags": [
+      {
+        "Tag": "6-next",
+        "Version": "6.0.0-6-next.4",
+        "PublishDate": "2021-09-03T21:24:16.678Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "6.0.0-6-next.44",
+        "PublishDate": "2023-08-20T10:59:10.163Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "7.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:05.463Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:47.591Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.0.0-next-8.15",
+        "PublishDate": "2025-03-31T21:23:56.263Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/logger-commons",
+    "Tags": [
+      {
+        "Tag": "6-next",
+        "Version": "6.0.0-6-next.25",
+        "PublishDate": "2023-02-05T20:33:40.416Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "6.0.0-6-next.44",
+        "PublishDate": "2023-08-20T10:59:16.692Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "7.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:10.22Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:52.754Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.0.0-next-8.15",
+        "PublishDate": "2025-03-31T21:23:56.928Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/logger-prettify",
+    "Tags": [
+      {
+        "Tag": "latest",
+        "Version": "6.0.0-alpha.3",
+        "PublishDate": "2021-09-03T21:24:16.368Z"
+      },
+      {
+        "Tag": "6-next",
+        "Version": "6.0.0-6-next.10",
+        "PublishDate": "2023-05-14T15:09:50.261Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "7.0.0-next.1",
+        "PublishDate": "2023-10-14T20:59:18.735Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-next-7.3",
+        "PublishDate": "2024-06-02T19:56:39.958Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.0.0-next-8.2",
+        "PublishDate": "2025-03-23T13:45:42.251Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/middleware",
+    "Tags": [
+      {
+        "Tag": "6-next",
+        "Version": "6.0.0-6-next.9",
+        "PublishDate": "2021-09-03T21:24:16.845Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "6.0.0-6-next.55",
+        "PublishDate": "2023-08-20T10:59:22.4Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "7.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:12.038Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:53.442Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.0.0-next-8.15",
+        "PublishDate": "2025-03-31T21:24:00.5Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/node-api",
+    "Tags": [
+      {
+        "Tag": "6-next",
+        "Version": "6.0.0-6-next.18",
+        "PublishDate": "2021-09-03T21:24:18.781Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "6.0.0-6-next.76",
+        "PublishDate": "2023-08-20T10:59:22.36Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "7.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:11.899Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:52.953Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.0.0-next-8.15",
+        "PublishDate": "2025-03-31T21:24:00.443Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/proxy",
+    "Tags": [
+      {
+        "Tag": "6-next",
+        "Version": "6.0.0-6-next.9",
+        "PublishDate": "2021-09-03T21:24:25.708Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "6.0.0-6-next.54",
+        "PublishDate": "2023-08-20T10:59:22.373Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "7.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:13.051Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:54.589Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.0.0-next-8.15",
+        "PublishDate": "2025-03-31T21:24:02.679Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/search",
+    "Tags": [
+      {
+        "Tag": "latest",
+        "Version": "6.0.0-6-next.2",
+        "PublishDate": "2023-05-14T10:44:47.629Z"
+      },
+      {
+        "Tag": "6-next",
+        "Version": "6.0.0-6-next.2",
+        "PublishDate": "2023-05-14T10:44:47.629Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "7.0.0-next.2",
+        "PublishDate": "2023-10-14T20:59:32.91Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-next-7.9",
+        "PublishDate": "2024-08-01T16:39:56.183Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.0.0-next-8.15",
+        "PublishDate": "2025-03-31T21:24:02.866Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/search-indexer",
+    "Tags": [
+      {
+        "Tag": "latest",
+        "Version": "7.0.0-next.0",
+        "PublishDate": "2024-03-10T17:02:30.191Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-next-7.2",
+        "PublishDate": "2024-03-24T11:37:49.842Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.0.0-next-8.4",
+        "PublishDate": "2025-03-29T14:41:00.624Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/server",
+    "Tags": [
+      {
+        "Tag": "6-next",
+        "Version": "6.0.0-6-next.17",
+        "PublishDate": "2021-09-03T21:24:27.602Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "6.0.0-6-next.65",
+        "PublishDate": "2023-08-20T10:59:22.945Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "7.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:13.809Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:57.009Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.0.0-next-8.15",
+        "PublishDate": "2025-03-31T21:24:03.926Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/server-fastify",
+    "Tags": [
+      {
+        "Tag": "6-next",
+        "Version": "6.0.0-6-next.24",
+        "PublishDate": "2022-08-19T21:53:14.314Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "6.0.0-6-next.57",
+        "PublishDate": "2023-08-20T10:59:26.788Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "7.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:16.009Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:57.227Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.0.0-next-8.15",
+        "PublishDate": "2025-03-31T21:24:04.187Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/signature",
+    "Tags": [
+      {
+        "Tag": "latest",
+        "Version": "6.0.0-6-next.2",
+        "PublishDate": "2023-02-27T20:10:16.62Z"
+      },
+      {
+        "Tag": "6-next",
+        "Version": "6.0.0-6-next.2",
+        "PublishDate": "2023-02-27T20:10:16.62Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "7.0.0-next.3",
+        "PublishDate": "2023-12-31T13:58:09.634Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-next-7.5",
+        "PublishDate": "2024-05-05T15:13:42.541Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.0.0-next-8.7",
+        "PublishDate": "2025-03-31T21:24:04.418Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/store",
+    "Tags": [
+      {
+        "Tag": "6-next",
+        "Version": "6.0.0-6-next.10",
+        "PublishDate": "2021-09-03T21:24:26.538Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "6.0.0-6-next.56",
+        "PublishDate": "2023-08-20T10:59:28.85Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "7.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:16.824Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:58.091Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.0.0-next-8.15",
+        "PublishDate": "2025-03-31T21:24:06.249Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/tarball",
+    "Tags": [
+      {
+        "Tag": "6-next",
+        "Version": "11.0.0-6-next.6",
+        "PublishDate": "2021-09-03T21:24:12.96Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "11.0.0-6-next.45",
+        "PublishDate": "2023-08-20T10:59:09.445Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "12.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:05.543Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "12.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:47.633Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "13.0.0-next-8.15",
+        "PublishDate": "2025-03-31T21:23:56.713Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/types",
+    "Tags": [
+      {
+        "Tag": "beta",
+        "Version": "5.0.0-beta.4",
+        "PublishDate": "2019-03-29T18:33:57.903Z"
+      },
+      {
+        "Tag": "feat-token",
+        "Version": "6.2.0",
+        "PublishDate": "2019-05-28T06:05:24.249Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "10.8.0",
+        "PublishDate": "2023-03-04T11:00:33.511Z"
+      },
+      {
+        "Tag": "6-next",
+        "Version": "11.0.0-6-next.25",
+        "PublishDate": "2023-03-18T21:21:59.381Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "12.0.0-next.2",
+        "PublishDate": "2023-12-31T13:57:57.838Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "12.0.0-next-7.5",
+        "PublishDate": "2024-07-07T16:49:11.872Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "13.0.0-next-8.5",
+        "PublishDate": "2025-03-29T14:40:49.897Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/ui-components",
+    "Tags": [
+      {
+        "Tag": "latest",
+        "Version": "1.0.0",
+        "PublishDate": "2022-12-25T17:53:40.512Z"
+      },
+      {
+        "Tag": "6-next",
+        "Version": "2.0.0-6-next.10",
+        "PublishDate": "2023-06-03T05:29:51.761Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "3.0.0-next.2",
+        "PublishDate": "2023-10-14T20:59:37.707Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "3.0.0-next-7.9",
+        "PublishDate": "2024-07-21T16:10:23.132Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "4.0.0-next-8.8",
+        "PublishDate": "2025-03-29T14:41:02.948Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/ui-i18n",
+    "Tags": [
+      {
+        "Tag": "next-8",
+        "Version": "8.0.0-next-8.10",
+        "PublishDate": "2025-03-02T12:09:50.752Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "8.0.0-next-8.12",
+        "PublishDate": "2025-03-23T13:45:36.459Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/ui-theme",
+    "Tags": [
+      {
+        "Tag": "latest",
+        "Version": "3.4.1",
+        "PublishDate": "2021-12-24T13:00:06.623Z"
+      },
+      {
+        "Tag": "beta",
+        "Version": "4.1.0-beta.2",
+        "PublishDate": "2022-01-15T12:57:01.705Z"
+      },
+      {
+        "Tag": "6-next",
+        "Version": "6.0.0-6-next.76",
+        "PublishDate": "2023-08-20T10:59:23.082Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "7.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:13.03Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:53.856Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.0.0-next-8.15",
+        "PublishDate": "2025-03-31T21:24:03.115Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/url",
+    "Tags": [
+      {
+        "Tag": "6-next",
+        "Version": "11.0.0-6-next.4",
+        "PublishDate": "2021-09-03T21:24:14.333Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "11.0.0-6-next.42",
+        "PublishDate": "2023-08-20T10:59:10.584Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "12.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:06.133Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "12.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:47.601Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "13.0.0-next-8.15",
+        "PublishDate": "2025-03-31T21:23:57.489Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/utils",
+    "Tags": [
+      {
+        "Tag": "6-next",
+        "Version": "6.0.0-6-next.5",
+        "PublishDate": "2021-09-03T21:24:26.567Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "6.0.0-6-next.44",
+        "PublishDate": "2023-08-20T10:59:28.642Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "7.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:16.011Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:57.866Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.1.0-next-8.15",
+        "PublishDate": "2025-03-31T21:24:06.821Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/web",
+    "Tags": [
+      {
+        "Tag": "6-next",
+        "Version": "6.0.0-6-next.15",
+        "PublishDate": "2021-09-03T21:24:27.124Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "6.0.0-6-next.63",
+        "PublishDate": "2023-08-20T10:59:28.722Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "7.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:16.446Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:57.998Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.1.0-next-8.15",
+        "PublishDate": "2025-03-31T21:24:06.919Z"
+      }
+    ]
+  },
+  {
+    "Package": "verdaccio",
+    "Tags": [
+      {
+        "Tag": "previous",
+        "Version": "4.12.2",
+        "PublishDate": "2021-06-23T17:20:21.917Z"
+      },
+      {
+        "Tag": "4-next",
+        "Version": "4.13.2",
+        "PublishDate": "2022-04-16T10:44:21.247Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:58.83Z"
+      },
+      {
+        "Tag": "latest-6",
+        "Version": "6.0.0-rc.1",
+        "PublishDate": "2024-09-15T07:31:12.99Z"
+      },
+      {
+        "Tag": "latest-5",
+        "Version": "5.33.0",
+        "PublishDate": "2024-11-24T13:42:26.374Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "6.1.2",
+        "PublishDate": "2025-04-01T15:59:28.304Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "8.0.0-next-8.15",
+        "PublishDate": "2025-03-31T21:24:06.608Z"
+      }
+    ]
+  },
+  {
+    "Package": "verdaccio-audit",
+    "Tags": [
+      {
+        "Tag": "latest",
+        "Version": "10.2.4",
+        "PublishDate": "2023-01-21T12:20:26.454Z"
+      },
+      {
+        "Tag": "6-next",
+        "Version": "11.0.0-6-next.39",
+        "PublishDate": "2023-08-20T10:59:20.97Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "12.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:12.191Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "12.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:53.184Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "13.0.0-next-8.15",
+        "PublishDate": "2025-03-31T21:24:01.307Z"
+      }
+    ]
+  },
+  {
+    "Package": "verdaccio-auth-memory",
+    "Tags": [
+      {
+        "Tag": "latest",
+        "Version": "10.2.2",
+        "PublishDate": "2023-03-29T18:48:01.541Z"
+      },
+      {
+        "Tag": "6-next",
+        "Version": "11.0.0-6-next.41",
+        "PublishDate": "2023-08-20T10:59:20.988Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "12.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:11.807Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "12.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:53.284Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "13.0.0-next-8.15",
+        "PublishDate": "2025-03-31T21:24:02.205Z"
+      }
+    ]
+  },
+  {
+    "Package": "verdaccio-htpasswd",
+    "Tags": [
+      {
+        "Tag": "beta",
+        "Version": "2.0.0-beta.1",
+        "PublishDate": "2019-02-24T10:53:18.835Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "10.5.5",
+        "PublishDate": "2023-04-21T07:46:11.729Z"
+      },
+      {
+        "Tag": "6-next",
+        "Version": "11.0.0-6-next.46",
+        "PublishDate": "2023-08-20T10:59:21.202Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "12.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:11.317Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "12.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:53.381Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "13.0.0-next-8.15",
+        "PublishDate": "2025-03-31T21:24:03.079Z"
+      }
+    ]
+  },
+  {
+    "Package": "verdaccio-memory",
+    "Tags": [
+      {
+        "Tag": "beta",
+        "Version": "2.0.0-beta.0",
+        "PublishDate": "2019-01-27T13:47:55.51Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "10.3.2",
+        "PublishDate": "2023-03-29T18:48:01.56Z"
+      },
+      {
+        "Tag": "6-next",
+        "Version": "11.0.0-6-next.43",
+        "PublishDate": "2023-08-20T10:59:21.999Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "12.0.0-next.6",
+        "PublishDate": "2024-01-07T09:06:12.505Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "12.0.0-next-7.20",
+        "PublishDate": "2024-08-01T16:39:53.132Z"
+      },
+      {
+        "Tag": "next-8",
+        "Version": "13.0.0-next-8.15",
+        "PublishDate": "2025-03-31T21:24:02.3Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/active-directory",
+    "Tags": [
+      {
+        "Tag": "next",
+        "Version": "10.0.0-next.1",
+        "PublishDate": "2020-04-12T18:57:29.164Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "10.2.2",
+        "PublishDate": "2024-02-17T08:42:48.315Z"
+      },
+      {
+        "Tag": "6-next",
+        "Version": "11.0.0-6-next.8",
+        "PublishDate": "2022-04-04T11:00:28.579Z"
+      }
+    ]
+  },
+  {
+    "Package": "@verdaccio/local-storage-legacy",
+    "Tags": {
+      "Tag": "latest",
+      "Version": "11.0.2",
+      "PublishDate": "2024-03-16T23:55:32.993Z"
+    }
+  },
+  {
+    "Package": "@verdaccio/streams",
+    "Tags": [
+      {
+        "Tag": "latest",
+        "Version": "10.2.1",
+        "PublishDate": "2023-03-29T18:48:01.296Z"
+      },
+      {
+        "Tag": "beta",
+        "Version": "2.0.0-beta.0",
+        "PublishDate": "2019-01-27T10:42:30.753Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "10.0.0-next.1",
+        "PublishDate": "2020-04-12T18:57:20.857Z"
+      },
+      {
+        "Tag": "6-next",
+        "Version": "11.0.0-6-next.5",
+        "PublishDate": "2021-10-15T21:18:48.677Z"
+      }
+    ]
+  },
+  {
+    "Package": "verdaccio-aws-s3-storage",
+    "Tags": [
+      {
+        "Tag": "latest",
+        "Version": "10.4.0",
+        "PublishDate": "2024-05-03T02:53:00.376Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "10.0.0-next.1",
+        "PublishDate": "2020-04-12T18:57:28.989Z"
+      },
+      {
+        "Tag": "6-next",
+        "Version": "11.0.0-6-next.10",
+        "PublishDate": "2022-04-04T11:00:29.125Z"
+      }
+    ]
+  },
+  {
+    "Package": "verdaccio-google-cloud",
+    "Tags": [
+      {
+        "Tag": "latest",
+        "Version": "10.2.1",
+        "PublishDate": "2023-03-29T18:48:01.654Z"
+      },
+      {
+        "Tag": "next",
+        "Version": "10.0.0-next.1",
+        "PublishDate": "2020-04-12T18:57:29.49Z"
+      },
+      {
+        "Tag": "6-next",
+        "Version": "11.0.0-6-next.10",
+        "PublishDate": "2022-04-04T11:00:29.1Z"
+      }
+    ]
+  }
+]
