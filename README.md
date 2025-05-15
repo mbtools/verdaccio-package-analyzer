@@ -36,6 +36,6 @@ pnpm run start:convert-summary
 
 ## Output
 
-- Dist-tags JSON data is saved to `data/dist-tags.json`
-- Markdown report is generated in `output/dist-tags.md`
-- Summary table is generated in `output/summary.md` 
+- Dist-tags JSON data is saved to [`data/dist-tags.json`](data/dist-tags.json)
+- Markdown report is generated in [`output/dist-tags.md`](output/dist-tags.md)
+- Summary table is generated in [`output/summary.md`](output/summary.md)
