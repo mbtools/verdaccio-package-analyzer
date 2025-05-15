@@ -45,3 +45,4 @@ verdaccio-memory
 @verdaccio/streams
 verdaccio-aws-s3-storage
 verdaccio-google-cloud
+

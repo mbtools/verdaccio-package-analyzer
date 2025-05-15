@@ -1,9 +1,9 @@
 import fs from 'fs/promises';
-import { PackageResult, TagInfo } from './types';
+import { PackageResult } from './types';
 
 async function convertDistTagsToSummary() {
   try {
-    const data = await fs.readFile('../data/dist-tags.json', 'utf-8');
+    const data = await fs.readFile('data/dist-tags.json', 'utf-8');
     const results = JSON.parse(data) as PackageResult[];
 
     const md: string[] = ['# Verdaccio NPM Package Version Summary\n'];
@@ -53,7 +53,7 @@ async function convertDistTagsToSummary() {
       md.push(`| ${Package} | ${latest} | ${sixNext} | ${next} | ${nextSeven} | ${nextEight} | ${otherTagsStr} |`);
     }
 
-    await fs.writeFile('../output/summary.md', md.join('\n'), 'utf-8');
+    await fs.writeFile('output/summary.md', md.join('\n'), 'utf-8');
     console.log('Summary table generated in summary.md');
   } catch (error) {
     console.error('Error:', error);

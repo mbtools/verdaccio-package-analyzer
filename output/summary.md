@@ -1,4 +1,4 @@
-# NPM Package Version Summary
+# Verdaccio NPM Package Version Summary
 
 | Package | Latest | 6-next | next | next-7 | next-8 | Other Tags |
 |---------|---------|---------|------|---------|---------|------------|

@@ -4,16 +4,12 @@
   "description": "Analysis tools for Verdaccio NPM packages",
   "scripts": {
     "build": "tsc",
-    "start:get-tags": "ts-node getPackumentDistTags.ts",
-    "start:convert-md": "ts-node convertDistTagsToMarkdown.ts",
-    "start:convert-summary": "ts-node convertDistTagsToSummary.ts"
-  },
-  "dependencies": {
-    "node-fetch": "^3.3.2"
+    "start:get-tags": "ts-node src/getPackumentDistTags.ts",
+    "start:convert-md": "ts-node src/convertDistTagsToMarkdown.ts",
+    "start:convert-summary": "ts-node src/convertDistTagsToSummary.ts"
   },
   "devDependencies": {
     "@types/node": "^22.15.18",
-    "@types/node-fetch": "^2.6.12",
     "ts-node": "^10.9.1",
     "typescript": "^5.8.3"
   }

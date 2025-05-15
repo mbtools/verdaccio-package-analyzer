@@ -1,10 +1,10 @@
 import fs from 'fs/promises';
-import fetch from 'node-fetch';
 import { PackageResult, NpmPackument, TagInfo } from './types';
 
 async function getPackumentDistTags() {
   try {
-    const packageList = (await fs.readFile('../input/package-list.md', 'utf-8'))
+    const packageList = (await fs.readFile('input/package-list.md', 'utf-8'))
+      .replace(/\r/g, '')
       .split('\n')
       .filter(line => line.trim() && !line.startsWith('#'));
 
@@ -40,7 +40,7 @@ async function getPackumentDistTags() {
     }
 
     await fs.writeFile(
-      '../data/dist-tags.json',
+      'data/dist-tags.json',
       JSON.stringify(results, null, 2),
       'utf-8'
     );
