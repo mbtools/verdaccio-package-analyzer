@@ -1,4 +1,4 @@
-import fs from 'fs/promises';
+import fs from 'node:fs/promises';
 import { PackageResult, NpmPackument, TagInfo } from './types';
 
 async function getPackumentDistTags() {

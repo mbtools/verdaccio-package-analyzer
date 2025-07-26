@@ -7,7 +7,7 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "outDir": "./dist",
-    "types": ["node", "node-fetch"]
+    "types": ["node"]
   },
   "include": ["src/*.ts"],
   "exclude": ["node_modules"]

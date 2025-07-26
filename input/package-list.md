@@ -1,5 +1,6 @@
 # Verdaccio
-# https://github.com/verdaccio/verdaccio
+
+## https://github.com/verdaccio/verdaccio
 
 @verdaccio/api
 @verdaccio/auth
@@ -38,7 +39,8 @@ verdaccio-htpasswd
 verdaccio-memory
 
 # Verdaccio Monorepo
-# https://github.com/verdaccio/monorepo
+
+## https://github.com/verdaccio/monorepo
 
 @verdaccio/active-directory
 @verdaccio/local-storage-legacy
