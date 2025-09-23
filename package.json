@@ -1,6 +1,6 @@
 {
   "name": "@verdaccio/package-analyzer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Analysis tools for Verdaccio NPM packages",
   "scripts": {
     "build": "tsc",
@@ -9,9 +9,9 @@
     "start:convert-summary": "ts-node src/convertDistTagsToSummary.ts"
   },
   "devDependencies": {
-    "@types/node": "^24.1.0",
+    "@types/node": "^24.5.2",
     "ts-node": "^10.9.2",
-    "typescript": "^5.8.3"
+    "typescript": "^5.9.2"
   },
-  "packageManager": "pnpm@10.13.1"
+  "packageManager": "pnpm@10.17.1"
 }
