@@ -43,6 +43,7 @@ verdaccio-memory
 ## https://github.com/verdaccio/monorepo
 
 @verdaccio/active-directory
+@verdaccio/legacy-types
 @verdaccio/local-storage-legacy
 @verdaccio/streams
 verdaccio-aws-s3-storage
