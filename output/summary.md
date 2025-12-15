@@ -40,6 +40,7 @@
 | verdaccio-htpasswd | 10.5.5 | 11.0.0-6-next.46 | 12.0.0-next.6 | 12.0.0-next-7.20 | 13.0.0-next-8.28 | beta |
 | verdaccio-memory | 10.4.1 | 11.0.0-6-next.43 | 12.0.0-next.6 | 12.0.0-next-7.20 | 13.0.0-next-8.28 | beta |
 | @verdaccio/active-directory | 10.3.1 | 11.0.0-6-next.8 | 10.0.0-next.1 | - | - | - |
+| @verdaccio/legacy-types | 1.0.2 | - | - | - | - | - |
 | @verdaccio/local-storage-legacy | 11.1.1 | - | - | - | - | - |
 | @verdaccio/streams | 10.2.1 | 11.0.0-6-next.5 | 10.0.0-next.1 | - | - | beta |
 | verdaccio-aws-s3-storage | 10.4.0 | 11.0.0-6-next.10 | 10.0.0-next.1 | - | - | - |

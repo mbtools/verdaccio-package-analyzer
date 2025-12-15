@@ -360,6 +360,12 @@
 | 6-next | 11.0.0-6-next.8 | 2022-04-04T11:00:28.579Z |
 | latest | 10.3.1 | 2025-07-06T20:39:17.814Z |
 
+## @verdaccio/legacy-types
+
+| Tag | Version | Publish Date |
+|-----|---------|--------------|
+| latest | 1.0.2 | 2025-07-06T20:39:17.821Z |
+
 ## @verdaccio/local-storage-legacy
 
 | Tag | Version | Publish Date |

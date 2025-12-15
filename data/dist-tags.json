@@ -1080,6 +1080,16 @@
     ]
   },
   {
+    "Package": "@verdaccio/legacy-types",
+    "Tags": [
+      {
+        "Tag": "latest",
+        "Version": "1.0.2",
+        "PublishDate": "2025-07-06T20:39:17.821Z"
+      }
+    ]
+  },
+  {
     "Package": "@verdaccio/local-storage-legacy",
     "Tags": [
       {
