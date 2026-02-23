@@ -918,14 +918,14 @@
         "PublishDate": "2024-11-24T13:42:26.374Z"
       },
       {
-        "Tag": "latest",
-        "Version": "6.2.5",
-        "PublishDate": "2026-01-31T17:03:29.286Z"
-      },
-      {
         "Tag": "next-8",
         "Version": "8.0.0-next-8.29",
         "PublishDate": "2026-01-22T13:01:03.009Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "6.2.7",
+        "PublishDate": "2026-02-21T18:08:06.915Z"
       }
     ]
   },
