@@ -24,8 +24,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "8.1.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:04.150Z"
+        "Version": "8.1.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:34.787Z"
       }
     ]
   },
@@ -54,8 +54,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "8.0.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:03.634Z"
+        "Version": "8.0.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:33.914Z"
       }
     ]
   },
@@ -84,8 +84,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "8.0.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:04.426Z"
+        "Version": "8.0.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:34.136Z"
       }
     ]
   },
@@ -139,8 +139,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "8.0.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:03.713Z"
+        "Version": "8.0.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:34.185Z"
       }
     ]
   },
@@ -169,8 +169,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "8.0.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:04.002Z"
+        "Version": "8.0.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:33.987Z"
       }
     ]
   },
@@ -229,8 +229,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "8.0.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:04.128Z"
+        "Version": "8.0.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:34.114Z"
       }
     ]
   },
@@ -259,8 +259,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "8.0.0-next-8.20",
-        "PublishDate": "2026-02-26T19:59:04.556Z"
+        "Version": "8.0.0-next-8.21",
+        "PublishDate": "2026-03-08T14:12:38.920Z"
       }
     ]
   },
@@ -294,8 +294,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "13.0.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:10.033Z"
+        "Version": "13.0.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:40.234Z"
       }
     ]
   },
@@ -324,8 +324,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "8.0.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:03.698Z"
+        "Version": "8.0.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:40.130Z"
       }
     ]
   },
@@ -354,8 +354,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "8.0.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:08.458Z"
+        "Version": "8.0.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:39.923Z"
       }
     ]
   },
@@ -414,8 +414,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "8.0.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:08.762Z"
+        "Version": "8.0.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:40.080Z"
       }
     ]
   },
@@ -444,8 +444,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "8.0.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:09.613Z"
+        "Version": "8.0.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:40.353Z"
       }
     ]
   },
@@ -474,8 +474,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "8.0.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:10.202Z"
+        "Version": "8.0.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:44.409Z"
       }
     ]
   },
@@ -483,12 +483,12 @@
     "Package": "@verdaccio/search",
     "Tags": [
       {
-        "Tag": "latest",
+        "Tag": "6-next",
         "Version": "6.0.0-6-next.2",
         "PublishDate": "2023-05-14T10:44:47.629Z"
       },
       {
-        "Tag": "6-next",
+        "Tag": "latest",
         "Version": "6.0.0-6-next.2",
         "PublishDate": "2023-05-14T10:44:47.629Z"
       },
@@ -504,8 +504,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "8.0.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:11.346Z"
+        "Version": "8.0.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:45.032Z"
       }
     ]
   },
@@ -554,8 +554,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "8.0.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:12.096Z"
+        "Version": "8.0.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:45.554Z"
       }
     ]
   },
@@ -593,12 +593,12 @@
     "Package": "@verdaccio/signature",
     "Tags": [
       {
-        "Tag": "6-next",
+        "Tag": "latest",
         "Version": "6.0.0-6-next.2",
         "PublishDate": "2023-02-27T20:10:16.620Z"
       },
       {
-        "Tag": "latest",
+        "Tag": "6-next",
         "Version": "6.0.0-6-next.2",
         "PublishDate": "2023-02-27T20:10:16.620Z"
       },
@@ -614,8 +614,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "8.0.0-next-8.22",
-        "PublishDate": "2026-02-26T19:59:12.626Z"
+        "Version": "8.0.0-next-8.23",
+        "PublishDate": "2026-03-08T14:12:45.764Z"
       }
     ]
   },
@@ -644,8 +644,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "8.0.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:14.508Z"
+        "Version": "8.0.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:46.235Z"
       }
     ]
   },
@@ -674,8 +674,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "13.0.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:04.460Z"
+        "Version": "13.0.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:34.102Z"
       }
     ]
   },
@@ -714,8 +714,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "13.0.0-next-8.10",
-        "PublishDate": "2025-11-23T15:28:40.643Z"
+        "Version": "13.0.0-next-8.11",
+        "PublishDate": "2026-03-08T14:12:34.366Z"
       }
     ]
   },
@@ -744,8 +744,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "4.0.0-next-8.12",
-        "PublishDate": "2025-11-14T08:14:54.510Z"
+        "Version": "4.0.0-next-8.13",
+        "PublishDate": "2026-03-08T14:12:48.134Z"
       }
     ]
   },
@@ -759,8 +759,8 @@
       },
       {
         "Tag": "latest",
-        "Version": "8.0.0-next-8.13",
-        "PublishDate": "2025-06-07T08:16:04.373Z"
+        "Version": "8.0.0-next-8.14",
+        "PublishDate": "2026-03-08T14:12:34.381Z"
       }
     ]
   },
@@ -794,8 +794,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "8.0.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:10.412Z"
+        "Version": "8.0.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:42.567Z"
       }
     ]
   },
@@ -824,8 +824,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "13.0.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:03.861Z"
+        "Version": "13.0.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:34.001Z"
       }
     ]
   },
@@ -854,8 +854,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "8.1.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:13.895Z"
+        "Version": "8.1.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:45.750Z"
       }
     ]
   },
@@ -884,8 +884,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "8.1.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:14.031Z"
+        "Version": "8.1.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:47.065Z"
       }
     ]
   },
@@ -903,11 +903,6 @@
         "PublishDate": "2022-04-16T10:44:21.247Z"
       },
       {
-        "Tag": "next-7",
-        "Version": "7.0.0-next-7.20",
-        "PublishDate": "2024-08-01T16:39:58.830Z"
-      },
-      {
         "Tag": "latest-6",
         "Version": "6.0.0-rc.1",
         "PublishDate": "2024-09-15T07:31:12.990Z"
@@ -919,13 +914,18 @@
       },
       {
         "Tag": "next-8",
-        "Version": "8.0.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:14.270Z"
+        "Version": "8.0.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:46.546Z"
+      },
+      {
+        "Tag": "next-7",
+        "Version": "7.0.0-beta.3",
+        "PublishDate": "2026-03-08T20:47:26.992Z"
       },
       {
         "Tag": "latest",
-        "Version": "6.2.9",
-        "PublishDate": "2026-02-26T08:13:03.759Z"
+        "Version": "6.3.1",
+        "PublishDate": "2026-03-08T20:07:46.556Z"
       }
     ]
   },
@@ -954,8 +954,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "13.0.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:09.212Z"
+        "Version": "13.0.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:40.164Z"
       }
     ]
   },
@@ -984,8 +984,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "13.0.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:09.167Z"
+        "Version": "13.0.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:39.671Z"
       }
     ]
   },
@@ -1019,8 +1019,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "13.0.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:09.507Z"
+        "Version": "13.0.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:40.275Z"
       }
     ]
   },
@@ -1054,8 +1054,8 @@
       },
       {
         "Tag": "next-8",
-        "Version": "13.0.0-next-8.30",
-        "PublishDate": "2026-02-26T19:59:09.722Z"
+        "Version": "13.0.0-next-8.31",
+        "PublishDate": "2026-03-08T14:12:40.354Z"
       }
     ]
   },
