@@ -43,7 +43,7 @@
 | @verdaccio/legacy-types | 1.0.5 | - | - | - | - | - |
 | @verdaccio/local-storage-legacy | 11.3.3 | - | - | - | - | - |
 | @verdaccio/streams | 10.2.5 | 11.0.0-6-next.5 | 10.0.0-next.1 | - | - | beta |
-| verdaccio-aws-s3-storage | 12.1.0 | 11.0.0-6-next.10 | 10.0.0-next.1 | - | - | - |
-| verdaccio-google-cloud | 11.1.2 | 11.0.0-6-next.10 | 10.0.0-next.1 | - | - | - |
+| verdaccio-aws-s3-storage | 12.1.1 | 11.0.0-6-next.10 | 10.0.0-next.1 | - | - | - |
+| verdaccio-google-cloud | 11.1.3 | 11.0.0-6-next.10 | 10.0.0-next.1 | - | - | - |
 
 </div>
