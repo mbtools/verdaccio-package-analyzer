@@ -34,7 +34,7 @@
 | @verdaccio/url | 13.0.2 | 11.0.0-6-next.4 | 12.0.0-next.6 | 12.0.0-next-7.20 | 13.0.0-next-8.38 | next-9 |
 | @verdaccio/utils | 8.1.2 | 6.0.0-6-next.5 | 7.0.0-next.6 | 7.0.0-next-7.20 | 8.1.0-next-8.38 | next-9 |
 | @verdaccio/web | 6.0.0-6-next.63 | 6.0.0-6-next.15 | 7.0.0-next.6 | 7.0.0-next-7.20 | 8.1.0-next-8.34 | next-9 |
-| verdaccio | 6.7.2 | - | - | 7.0.0-beta.6 | - | 4-next, latest-5, next-9, previous |
+| verdaccio | 6.7.2 | - | - | 7.0.0-next-7.21 | - | 4-next, latest-5, next-9, previous |
 | verdaccio-audit | 13.0.2 | 11.0.0-6-next.39 | 12.0.0-next.6 | 12.0.0-next-7.20 | 13.0.0-next-8.38 | next-9 |
 | verdaccio-auth-memory | 13.0.2 | 11.0.0-6-next.41 | 12.0.0-next.6 | 12.0.0-next-7.20 | 13.0.0-next-8.38 | next-9 |
 | verdaccio-htpasswd | 13.0.2 | 11.0.0-6-next.46 | 12.0.0-next.6 | 12.0.0-next-7.20 | 13.0.0-next-8.38 | beta, next-9 |
