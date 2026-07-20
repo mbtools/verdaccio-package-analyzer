@@ -11,7 +11,7 @@
 | @verdaccio/config | 8.1.2 | 6.0.0-6-next.7 | 7.0.0-next.6 | 7.0.0-next-7.20 | 8.0.0-next-8.38 | next-9 |
 | @verdaccio/core | 8.1.2 | 6.0.0-6-next.1 | 7.0.0-next.6 | 7.0.0-next-7.20 | 8.0.0-next-8.38 | next-9 |
 | @verdaccio/file-locking | 13.0.1 | 11.0.0-6-next.7 | 12.0.0-next.1 | - | 13.0.0-next-8.7 | beta, next-9 |
-| @verdaccio/hooks | 8.0.3 | 6.0.0-6-next.4 | 7.0.0-next.6 | 7.0.0-next-7.20 | 8.0.0-next-8.38 | next-9 |
+| @verdaccio/hooks | 8.0.4 | 6.0.0-6-next.4 | 7.0.0-next.6 | 7.0.0-next-7.20 | 8.0.0-next-8.38 | next-9 |
 | @verdaccio/loaders | 8.0.3 | 6.0.0-6-next.4 | 7.0.0-next.6 | 7.0.0-next-7.20 | 8.0.0-next-8.28 | next-9 |
 | @verdaccio/local-storage | 10.5.1 | 11.0.0-6-next.46 | 12.0.0-next.6 | 12.0.0-next-7.20 | 13.0.0-next-8.34 | beta, next-9 |
 | @verdaccio/logger | 8.0.3 | 6.0.0-6-next.4 | 7.0.0-next.6 | 7.0.0-next-7.20 | 8.0.0-next-8.38 | next-9 |
@@ -27,14 +27,14 @@
 | @verdaccio/signature | 8.0.3 | 6.0.0-6-next.2 | 7.0.0-next.3 | 7.0.0-next-7.5 | 8.0.0-next-8.30 | next-9 |
 | @verdaccio/store | 6.0.0-6-next.56 | 6.0.0-6-next.10 | 7.0.0-next.6 | 7.0.0-next-7.20 | 8.0.0-next-8.34 | next-9 |
 | @verdaccio/tarball | 13.0.3 | 11.0.0-6-next.6 | 12.0.0-next.6 | 12.0.0-next-7.20 | 13.0.0-next-8.38 | next-9 |
-| @verdaccio/types | 13.0.2 | 11.0.0-6-next.25 | 12.0.0-next.2 | 12.0.0-next-7.5 | 13.0.0-next-8.12 | beta, feat-token, next-9 |
+| @verdaccio/types | 13.0.3 | 11.0.0-6-next.25 | 12.0.0-next.2 | 12.0.0-next-7.5 | 13.0.0-next-8.12 | beta, feat-token, next-9 |
 | @verdaccio/ui-components | 1.0.0 | 2.0.0-6-next.10 | 3.0.0-next.2 | 3.0.0-next-7.9 | 4.0.0-next-8.13 | next-9 |
 | @verdaccio/ui-i18n | 8.0.0-next-8.14 | - | - | - | 8.0.0-next-8.10 | next-9 |
 | @verdaccio/ui-theme | 3.4.1 | 6.0.0-6-next.76 | 7.0.0-next.6 | 7.0.0-next-7.20 | 8.0.0-next-8.32 | beta, next-9 |
 | @verdaccio/url | 13.0.3 | 11.0.0-6-next.4 | 12.0.0-next.6 | 12.0.0-next-7.20 | 13.0.0-next-8.38 | next-9 |
 | @verdaccio/utils | 8.1.3 | 6.0.0-6-next.5 | 7.0.0-next.6 | 7.0.0-next-7.20 | 8.1.0-next-8.38 | next-9 |
 | @verdaccio/web | 6.0.0-6-next.63 | 6.0.0-6-next.15 | 7.0.0-next.6 | 7.0.0-next-7.20 | 8.1.0-next-8.34 | next-9 |
-| verdaccio | 6.7.4 | - | - | 7.0.0-next-7.23 | - | 4-next, latest-5, next-9, previous |
+| verdaccio | 6.8.0 | - | - | 7.0.0-next-7.23 | - | 4-next, latest-5, next-9, previous |
 | verdaccio-audit | 13.0.3 | 11.0.0-6-next.39 | 12.0.0-next.6 | 12.0.0-next-7.20 | 13.0.0-next-8.38 | next-9 |
 | verdaccio-auth-memory | 13.0.3 | 11.0.0-6-next.41 | 12.0.0-next.6 | 12.0.0-next-7.20 | 13.0.0-next-8.38 | next-9 |
 | verdaccio-htpasswd | 13.0.3 | 11.0.0-6-next.46 | 12.0.0-next.6 | 12.0.0-next-7.20 | 13.0.0-next-8.38 | beta, next-9 |
