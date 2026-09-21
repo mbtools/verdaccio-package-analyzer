@@ -17,7 +17,7 @@
 | @verdaccio/logger | 8.1.3 | 6.0.0-6-next.4 | 7.0.0-next.6 | 7.0.0-next-7.20 | 8.0.0-next-8.38 | next-9 |
 | @verdaccio/logger-commons | 8.1.3 | 6.0.0-6-next.25 | 7.0.0-next.6 | 7.0.0-next-7.20 | 8.0.0-next-8.38 | next-9 |
 | @verdaccio/logger-prettify | 8.1.0 | 6.0.0-6-next.10 | 7.0.0-next.1 | 7.0.0-next-7.3 | 8.0.0-next-8.5 | next-9 |
-| @verdaccio/middleware | 8.1.3 | 6.0.0-6-next.9 | 7.0.0-next.6 | 7.0.0-next-7.20 | 8.0.0-next-8.38 | next-9 |
+| @verdaccio/middleware | 8.1.4 | 6.0.0-6-next.9 | 7.0.0-next.6 | 7.0.0-next-7.20 | 8.0.0-next-8.38 | next-9 |
 | @verdaccio/node-api | 6.0.0-6-next.76 | 6.0.0-6-next.18 | 7.0.0-next.6 | 7.0.0-next-7.20 | 8.0.0-next-8.32 | next-9 |
 | @verdaccio/proxy | 6.0.0-6-next.54 | 6.0.0-6-next.9 | 7.0.0-next.6 | 7.0.0-next-7.20 | 8.0.0-next-8.34 | next-9 |
 | @verdaccio/search | 6.0.0-6-next.2 | 6.0.0-6-next.2 | 7.0.0-next.2 | 7.0.0-next-7.9 | 8.0.0-next-8.34 | next-9 |
@@ -34,8 +34,8 @@
 | @verdaccio/url | 13.1.3 | 11.0.0-6-next.4 | 12.0.0-next.6 | 12.0.0-next-7.20 | 13.0.0-next-8.38 | next-9 |
 | @verdaccio/utils | 8.2.2 | 6.0.0-6-next.5 | 7.0.0-next.6 | 7.0.0-next-7.20 | 8.1.0-next-8.38 | next-9 |
 | @verdaccio/web | 6.0.0-6-next.63 | 6.0.0-6-next.15 | 7.0.0-next.6 | 7.0.0-next-7.20 | 8.1.0-next-8.34 | next-9 |
-| verdaccio | 6.10.3 | - | - | 7.0.0-next-7.27 | - | 4-next, latest-5, next-9, previous |
-| verdaccio-audit | 13.1.3 | 11.0.0-6-next.39 | 12.0.0-next.6 | 12.0.0-next-7.20 | 13.0.0-next-8.38 | next-9 |
+| verdaccio | 6.10.4 | - | - | 7.0.0-next-7.27 | - | 4-next, latest-5, next-9, previous |
+| verdaccio-audit | 13.1.4 | 11.0.0-6-next.39 | 12.0.0-next.6 | 12.0.0-next-7.20 | 13.0.0-next-8.38 | next-9 |
 | verdaccio-auth-memory | 13.1.3 | 11.0.0-6-next.41 | 12.0.0-next.6 | 12.0.0-next-7.20 | 13.0.0-next-8.38 | next-9 |
 | verdaccio-htpasswd | 13.1.3 | 11.0.0-6-next.46 | 12.0.0-next.6 | 12.0.0-next-7.20 | 13.0.0-next-8.38 | beta, next-9 |
 | verdaccio-memory | 10.5.3 | 11.0.0-6-next.43 | 12.0.0-next.6 | 12.0.0-next-7.20 | 13.0.0-next-8.34 | beta, next-9 |
