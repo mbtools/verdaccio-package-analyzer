@@ -34,7 +34,7 @@
 | @verdaccio/url | 13.1.6 | 11.0.0-6-next.4 | 12.0.0-next.6 | 12.0.0-next-7.20 | 13.0.0-next-8.38 | next-9 |
 | @verdaccio/utils | 8.2.2 | 6.0.0-6-next.5 | 7.0.0-next.6 | 7.0.0-next-7.20 | 8.1.0-next-8.38 | next-9 |
 | @verdaccio/web | 6.0.0-6-next.63 | 6.0.0-6-next.15 | 7.0.0-next.6 | 7.0.0-next-7.20 | 8.1.0-next-8.34 | next-9 |
-| verdaccio | 6.10.5 | - | - | 7.0.0-next-7.30 | - | 4-next, latest-5, next-9, previous |
+| verdaccio | 6.10.6 | - | - | 7.0.0-next-7.31 | - | 4-next, latest-5, next-9, previous |
 | verdaccio-audit | 13.1.7 | 11.0.0-6-next.39 | 12.0.0-next.6 | 12.0.0-next-7.20 | 13.0.0-next-8.38 | next-9 |
 | verdaccio-auth-memory | 13.1.6 | 11.0.0-6-next.41 | 12.0.0-next.6 | 12.0.0-next-7.20 | 13.0.0-next-8.38 | next-9 |
 | verdaccio-htpasswd | 13.1.6 | 11.0.0-6-next.46 | 12.0.0-next.6 | 12.0.0-next-7.20 | 13.0.0-next-8.38 | beta, next-9 |
@@ -43,7 +43,7 @@
 | @verdaccio/legacy-types | 1.0.7 | - | - | - | - | - |
 | @verdaccio/local-storage-legacy | 11.4.6 | - | - | - | - | - |
 | @verdaccio/streams | 10.3.0 | 11.0.0-6-next.5 | 10.0.0-next.1 | - | - | beta |
-| verdaccio-aws-s3-storage | 12.1.2 | 11.0.0-6-next.10 | 10.0.0-next.1 | - | - | - |
+| verdaccio-aws-s3-storage | 12.1.3 | 11.0.0-6-next.10 | 10.0.0-next.1 | - | - | - |
 | verdaccio-google-cloud | 11.2.0 | 11.0.0-6-next.10 | 10.0.0-next.1 | - | - | - |
 
 </div>
