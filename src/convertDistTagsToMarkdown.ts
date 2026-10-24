@@ -23,7 +23,14 @@ async function convertDistTagsToMarkdown() {
       md.push('| Tag | Version | Publish Date |');
       md.push('|-----|---------|--------------|');
       
-      for (const tag of entry.Tags) {
+      const sortedTags = [...entry.Tags].sort((a, b) => {
+        if (a.Tag === b.Tag) return 0;
+        if (a.Tag === 'latest') return -1;
+        if (b.Tag === 'latest') return 1;
+        return a.Tag.localeCompare(b.Tag);
+      });
+
+      for (const tag of sortedTags) {
         md.push(`| ${tag.Tag} | ${tag.Version} | ${tag.PublishDate} |`);
       }
       

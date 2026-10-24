@@ -8,8 +8,8 @@ async function convertDistTagsToSummary() {
 
     const md: string[] = ['# Verdaccio NPM Package Version Summary\n'];
     md.push('<div style="font-size:smaller">\n')
-    md.push('| Package | Latest | 6-next | next | next-7 | next-8 | Other Tags |');
-    md.push('|---------|---------|---------|------|---------|---------|------------|');
+    md.push('| Package | Latest | 6-next | next | next-7 | next-8 | next-9 | Other Tags |');
+    md.push('|---------|---------|---------|------|---------|---------|---------|------------|');
 
     for (const entry of results) {
       const { Package, Tags } = entry;
@@ -20,6 +20,7 @@ async function convertDistTagsToSummary() {
       let next = '-';
       let nextSeven = '-';
       let nextEight = '-';
+      let nextNine = '-';
       const otherTags: string[] = [];
 
       // Process each tag
@@ -40,6 +41,9 @@ async function convertDistTagsToSummary() {
           case 'next-8':
             nextEight = tag.Version;
             break;
+          case 'next-9':
+            nextNine = tag.Version;
+            break;
           default:
             otherTags.push(tag.Tag);
         }
@@ -51,7 +55,7 @@ async function convertDistTagsToSummary() {
         : '-';
 
       // Add row to markdown
-      md.push(`| ${Package} | ${latest} | ${sixNext} | ${next} | ${nextSeven} | ${nextEight} | ${otherTagsStr} |`);
+      md.push(`| ${Package} | ${latest} | ${sixNext} | ${next} | ${nextSeven} | ${nextEight} | ${nextNine} | ${otherTagsStr} |`);
     }
     md.push('\n</div>\n');
 

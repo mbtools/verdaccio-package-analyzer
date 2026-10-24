@@ -2,6 +2,7 @@
 
 ## https://github.com/verdaccio/verdaccio
 
+@verdaccio/admin-cli
 @verdaccio/api
 @verdaccio/auth
 @verdaccio/cli
@@ -13,15 +14,13 @@
 @verdaccio/loaders
 @verdaccio/local-storage
 @verdaccio/logger
-@verdaccio/logger-commons
-@verdaccio/logger-prettify
 @verdaccio/middleware
 @verdaccio/node-api
+@verdaccio/package-filter
+@verdaccio/plugin-verifier
 @verdaccio/proxy
 @verdaccio/search
-@verdaccio/search-indexer
 @verdaccio/server
-@verdaccio/server-fastify
 @verdaccio/signature
 @verdaccio/store
 @verdaccio/tarball
@@ -30,7 +29,6 @@
 @verdaccio/ui-i18n
 @verdaccio/ui-theme
 @verdaccio/url
-@verdaccio/utils
 @verdaccio/web
 verdaccio
 verdaccio-audit
@@ -49,3 +47,10 @@ verdaccio-memory
 verdaccio-aws-s3-storage
 verdaccio-google-cloud
 
+# Verdaccio Deprecated
+
+@verdaccio/logger-commons
+@verdaccio/logger-prettify
+@verdaccio/search-indexer
+@verdaccio/server-fastify
+@verdaccio/utils
