@@ -953,14 +953,14 @@
         "PublishDate": "2026-10-25T09:53:10.591Z"
       },
       {
-        "Tag": "latest",
-        "Version": "7.0.1",
-        "PublishDate": "2026-10-25T14:42:42.946Z"
-      },
-      {
         "Tag": "next-9",
         "Version": "9.0.0-next-9.41",
         "PublishDate": "2026-10-25T14:18:17.894Z"
+      },
+      {
+        "Tag": "latest",
+        "Version": "7.0.2",
+        "PublishDate": "2026-10-26T18:04:52.846Z"
       }
     ]
   },
